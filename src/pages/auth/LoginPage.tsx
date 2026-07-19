@@ -112,12 +112,12 @@ export function LoginPage() {
             </div>
           </div>
 
-          <p className="text-center text-sm text-slate-500 mt-6">
+          {/* <p className="text-center text-sm text-slate-500 mt-6">
             Don't have an account?{' '}
             <Link to="/register" className="text-primary-600 font-medium hover:underline">
               Create one
             </Link>
-          </p>
+          </p> */}
         </div>
       </div>
     </div>
